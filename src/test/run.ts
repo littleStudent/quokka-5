@@ -1,3 +1,3 @@
-import * as x from '../actions/value.actions'
+import * as value from '../value/value'
 
-console.log(x.InitAction)
+console.log(value.test())
