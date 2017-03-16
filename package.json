@@ -19,12 +19,7 @@
   "devDependencies": {
     "ts-node": "1.2.1"
   },
-  "quokka": {
-    "typescript": true,
-    "ts": {
-        "compilerOptions": {
-            "target": "es6"
-        }
-    }
+  "dependencies": {
+    "rxjs": "^5.2.0"
   }
 }
