@@ -20,6 +20,11 @@
     "ts-node": "1.2.1"
   },
   "quokka": {
-    "typescript": true
+    "typescript": true,
+    "ts": {
+        "compilerOptions": {
+            "target": "es6"
+        }
+    }
   }
 }
